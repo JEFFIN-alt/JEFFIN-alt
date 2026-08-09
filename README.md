@@ -15,7 +15,7 @@ Building practical AI systems and turning ideas into working software.
 
 ---
 
-## 🧠 About Me
+# About Me
 
 I'm a B.Tech student in **Artificial Intelligence & Data Science** interested in building practical AI systems.
 
@@ -25,7 +25,7 @@ I enjoy taking an idea from a concept → model → application.
 
 ---
 
-## 🚀 Currently Building
+## Currently Building
 
 - 🤖 **OpenLLM Gateway** — Multi-model AI gateway using OpenRouter
 - 🧠 **Intelligent Sensor Anomaly Detection** — LSTM-based anomaly detection system
@@ -33,7 +33,7 @@ I enjoy taking an idea from a concept → model → application.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 
@@ -60,9 +60,9 @@ I enjoy taking an idea from a concept → model → application.
 
 ---
 
-## ⭐ Featured Projects
+##  Featured Projects
 
-### 🤖 OpenLLM Gateway
+###  OpenLLM Gateway
 
 A lightweight multi-model AI gateway providing a unified interface for interacting with free and open LLMs through OpenRouter.
 
@@ -82,7 +82,7 @@ An LSTM Autoencoder-based system designed to detect anomalies in industrial sens
 
 ---
 
-### 🌊 AI-Based Multi-Reservoir Water Management
+###  AI-Based Multi-Reservoir Water Management
 
 An AI-driven system focused on reservoir management, forecasting, irrigation planning, and flood prevention.
 
@@ -92,7 +92,7 @@ An AI-driven system focused on reservoir management, forecasting, irrigation pla
 
 ---
 
-## 🎯 Areas I'm Exploring
+##  Areas I'm Exploring
 
 ```text
 Artificial Intelligence
