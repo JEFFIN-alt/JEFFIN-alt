@@ -67,3 +67,10 @@ An AI-driven system for reservoir management, forecasting, irrigation planning, 
 ---
 
 > *Building, learning, experimenting.*
+> ---
+
+## 📊 GitHub Activity
+
+![Jeffin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEFFIN-alt&show_icons=true&hide_border=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JEFFIN-alt&layout=compact&hide_border=true)
