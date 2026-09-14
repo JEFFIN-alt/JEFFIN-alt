@@ -11,6 +11,10 @@ I build AI systems that move from **signals and data → models → decisions �
 <a href="https://github.com/JEFFIN-alt"><img src="https://skillicons.dev/icons?i=github" width="34" alt="GitHub"/></a>
 &nbsp;&nbsp;
 <a href="mailto:jeffinmathew453@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="34" alt="Email"/></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jeffin-mathew-496a82337/"><img src="https://skillicons.dev/icons?i=linkedin" width="34" alt="LinkedIn"/></a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/jxeffin/"><img src="https://skillicons.dev/icons?i=instagram" width="34" alt="Instagram"/></a>
 
 </div>
 
