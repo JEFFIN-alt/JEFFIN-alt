@@ -2,105 +2,56 @@
 
 # 👋 Hi, I'm Jeffin Mathew
 
-### AI & Data Science Student · Machine Learning · LLM Applications
+### AI & Data Science Student · Machine Learning · LLMs · Intelligent Systems
 
-Building practical AI systems and turning ideas into working software.
+Building AI that **learns, predicts, and acts.**
 
-<br>
+`Machine Learning` · `Deep Learning` · `LLMs` · `Time Series` · `Computer Vision` · `Automation`
 
-[![GitHub](https://img.shields.io/badge/GitHub-JEFFIN--alt-181717?style=for-the-badge&logo=github)](https://github.com/JEFFIN-alt)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+<p>
+  <a href="https://github.com/JEFFIN-alt"><img src="https://img.shields.io/badge/GitHub-JEFFIN--alt-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:jeffinmathew453@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 </div>
 
 ---
 
-# About Me
+## 01 — What I build
 
-I'm a B.Tech student in **Artificial Intelligence & Data Science** interested in building practical AI systems.
+Practical AI systems that turn **data → models → decisions → working applications**.
 
-My interests include **machine learning, deep learning, LLM applications, time-series analysis, anomaly detection, and intelligent automation**.
-
-I enjoy taking an idea from a concept → model → application.
+I’m especially interested in **machine learning, deep learning, LLM applications, time-series analysis, anomaly detection, intelligent automation, and AI-powered control systems**.
 
 ---
 
-## Currently Building
+## 02 — Selected work
 
-- 🤖 **OpenLLM Gateway** — Multi-model AI gateway using OpenRouter
-- 🧠 **Intelligent Sensor Anomaly Detection** — LSTM-based anomaly detection system
-- 🌊 **AI-Based Multi-Reservoir Water Management** — AI-driven reservoir and flood-management system
-
----
-
-##  Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-### AI / Machine Learning
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-### AI Applications & Tools
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-412991?style=flat-square)
+| Project | Focus |
+|---|---|
+| **[AI-Based Multi-Reservoir Water Management](https://github.com/JEFFIN-alt/AI-BASED-MULTI-RESERVOIR-WATER-MANAGEMENT-AND-FLOOD-PREVENTION-SYSTEM)** | Forecasting · Simulation · RL · Flood Prevention |
+| **[LSTM Multi-Sensor Anomaly Detection](https://github.com/JEFFIN-alt/lstm-motor-anomaly-detection)** | LSTM · Sensor Fusion · Predictive Maintenance |
+| **[OpenLLM Gateway](https://github.com/JEFFIN-alt/OpenLLM-Gateway)** | LLMs · OpenRouter · Streamlit |
+| **[Smart Attendance System](https://github.com/JEFFIN-alt/smart-attendance_system)** | Computer Vision · Automation |
 
 ---
 
-##  Featured Projects
+## 03 — Working stack
 
-###  OpenLLM Gateway
-
-A lightweight multi-model AI gateway providing a unified interface for interacting with free and open LLMs through OpenRouter.
-
-**Python · Streamlit · OpenRouter**
-
-[View Project →](https://github.com/JEFFIN-alt/OpenLLM-Gateway)
+`Python` `C` `Java` `SQL` `TensorFlow` `PyTorch` `Scikit-learn` `Pandas` `NumPy` `LangChain` `Streamlit` `Flask` `Git` `Linux`
 
 ---
 
-### 🧠 Intelligent Sensor Anomaly Detection
+## 04 — Current direction
 
-An LSTM Autoencoder-based system designed to detect anomalies in industrial sensor data and provide meaningful explanations.
+**LLMs → AI Agents → Intelligent Automation → Production Systems**
 
-**Python · TensorFlow · LSTM · Time Series**
-
-[View Project →](https://github.com/JEFFIN-alt/lstm-motor-anomaly-detection)
+Exploring how AI can move beyond prediction and become part of systems that **understand, decide, and act**.
 
 ---
 
-###  AI-Based Multi-Reservoir Water Management
+<div align="center">
 
-An AI-driven system focused on reservoir management, forecasting, irrigation planning, and flood prevention.
+### BUILD · SHIP · LEARN · ITERATE
 
-**Python · Machine Learning · Data Science**
-
-[View Project →](https://github.com/JEFFIN-alt/AI-BASED-MULTI-RESERVOIR-WATER-MANAGEMENT-AND-FLOOD-PREVENTION-SYSTEM)
-
----
-
-##  Areas I'm Exploring
-
-```text
-Artificial Intelligence
-Machine Learning
-Deep Learning
-Large Language Models
-AI Agents
-Time-Series Analysis
-Anomaly Detection
-Data Science
-Intelligent Systems
+</div>
