@@ -1,152 +1,204 @@
 <div align="center">
 
-<img src="./lab-hero.svg" alt="Jeffin Mathew — AI Systems Lab" width="100%" />
+<img src="./lab-hero.svg" width="100%" alt="Jeffin Mathew — AI Systems Lab" />
 
-<p>
-  <a href="https://github.com/JEFFIN-alt"><img src="https://img.shields.io/badge/GITHUB-JEFFIN--alt-111827?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="mailto:jeffinmathew453@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-111827?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
+### JEFFIN MATHEW
+
+**Artificial Intelligence & Data Science · Machine Learning · Intelligent Systems**
+
+I build AI systems that move from **signals and data → models → decisions → action.**
+
+<a href="https://github.com/JEFFIN-alt"><img src="https://skillicons.dev/icons?i=github" width="34" alt="GitHub"/></a>
+&nbsp;&nbsp;
+<a href="mailto:jeffinmathew453@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="34" alt="Email"/></a>
 
 </div>
 
-> **AI & Data Science student building intelligent systems from raw signals to real-world decisions.**
+---
+
+## THE LAB
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+**PERCEPTION**  
+Computer Vision  
+Sensor Fusion  
+Time-Series
+
+</td>
+<td width="25%" align="center">
+
+**LEARNING**  
+Machine Learning  
+Deep Learning  
+Representation
+
+</td>
+<td width="25%" align="center">
+
+**REASONING**  
+LLMs  
+RAG  
+AI Agents
+
+</td>
+<td width="25%" align="center">
+
+**ACTION**  
+Automation  
+Control  
+Applications
+
+</td>
+</tr>
+</table>
+
+> The interesting part isn't the model alone. It's designing the **system around the model** so intelligence can survive contact with a real problem.
 
 ---
 
-## AI SYSTEMS I BUILD
+## SYSTEMS IN THE LAB
 
-```text
-                         ┌─────────────────────────┐
-                         │     MACHINE INTELLIGENCE │
-                         └────────────┬────────────┘
-                                      │
-             ┌────────────────────────┼────────────────────────┐
-             ▼                        ▼                        ▼
-       ┌───────────┐            ┌───────────┐            ┌────────────┐
-       │ PERCEIVE  │            │  REASON   │            │    ACT     │
-       └─────┬─────┘            └─────┬─────┘            └─────┬──────┘
-             │                        │                        │
-     Computer Vision          LLMs · RAG · Agents       Automation
-     Sensor Fusion            Deep Learning             Intelligent Control
-     Time Series              Machine Learning          Decision Systems
-             │                        │                        │
-             └────────────────────────┼────────────────────────┘
-                                      ▼
-                         ┌─────────────────────────┐
-                         │   WORKING AI SYSTEM     │
-                         │  data → model → action  │
-                         └─────────────────────────┘
-```
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I like the part where a model stops being a notebook experiment and becomes a **system** — something that can interpret signals, make decisions, and produce a useful outcome.
+### 🌊 Reservoir Intelligence
 
-**Core interests:** `Machine Learning` · `Deep Learning` · `LLMs` · `RAG` · `AI Agents` · `Time-Series` · `Computer Vision` · `Intelligent Automation`
+**Multi-Reservoir Water Management & Flood Prevention**
 
----
+A research project exploring inflow forecasting, reservoir-network simulation, intelligent release decisions, continual learning, and operator-facing visualization for balancing water preservation with flood risk.
 
-## SELECTED SYSTEMS
+`Python` `Pandas` `NumPy` `Scikit-learn` `NetworkX` `Plotly` `Streamlit`
 
-### 🌊 Multi-Reservoir Water Management
-**AI-assisted reservoir coordination & flood prevention**
+**[Repository →](https://github.com/JEFFIN-alt/AI-BASED-MULTI-RESERVOIR-WATER-MANAGEMENT-AND-FLOOD-PREVENTION-SYSTEM)**
 
-A research-oriented system combining inflow forecasting, multi-reservoir simulation, reinforcement-learning control, continual learning, and an operator dashboard. The goal is to balance water preservation with downstream flood risk.  
-**Stack:** `Python` `NumPy` `Pandas` `Scikit-learn` `NetworkX` `Plotly` `Streamlit` `Jupyter`
+</td>
+<td width="50%" valign="top">
 
-→ [Explore the system](https://github.com/JEFFIN-alt/AI-BASED-MULTI-RESERVOIR-WATER-MANAGEMENT-AND-FLOOD-PREVENTION-SYSTEM)
+### ⚙️ Motor Intelligence
 
----
+**LSTM Multi-Sensor Anomaly Detection**
 
-### ⚙️ Multi-Sensor Motor Intelligence
-**Real-time anomaly detection + predictive maintenance**
+A real-time predictive-maintenance system combining Arduino sensing, multivariate time-series data, an LSTM Autoencoder, anomaly scoring, dashboards, and NASA CMAPSS RUL experiments.
 
-An LSTM Autoencoder learns normal industrial sensor behaviour and detects deviations from live Arduino streams. The project also explores Remaining Useful Life prediction with the NASA CMAPSS benchmark, connecting edge sensing, ML inference, and monitoring dashboards.  
-**Stack:** `Python` `TensorFlow/Keras` `LSTM` `Arduino` `MPU6050` `Flask` `Streamlit` `Plotly`
+`TensorFlow` `Keras` `LSTM` `Arduino` `MPU6050` `Flask` `Streamlit`
 
-→ [Explore the system](https://github.com/JEFFIN-alt/lstm-motor-anomaly-detection)
+**[Repository →](https://github.com/JEFFIN-alt/lstm-motor-anomaly-detection)**
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### ◈ OpenLLM Gateway
-**A lightweight interface for multi-model AI**
 
-A practical LLM application providing a unified interface to free/open models through OpenRouter, with model switching, automatic free-model routing, session conversation memory, and a Streamlit interface.  
-**Stack:** `Python` `Streamlit` `OpenRouter`
+A lightweight multi-model AI application using OpenRouter, with model switching, free-model routing, session memory, and a Streamlit interface.
 
-→ [Explore the gateway](https://github.com/JEFFIN-alt/OpenLLM-Gateway) · [Live demo](https://openllm.streamlit.app/)
+`Python` `Streamlit` `OpenRouter`
+
+**[Repository →](https://github.com/JEFFIN-alt/OpenLLM-Gateway)**  
+**[Live demo →](https://openllm.streamlit.app/)**
+
+</td>
+<td width="50%" valign="top">
+
+### ◎ Smart Attendance
+
+A practical computer-vision / automation project focused on turning a routine attendance workflow into a more intelligent application.
+
+**[Repository →](https://github.com/JEFFIN-alt/smart-attendance_system)**
+
+</td>
+</tr>
+</table>
 
 ---
 
-### ◎ Smart Attendance System
-**Computer vision applied to an everyday workflow**
+## ENGINEERING DECK
 
-A practical automation project focused on using AI/computer vision to make attendance handling more intelligent and less manual.
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>Python · C · Java · SQL</td>
+</tr>
+<tr>
+<td><b>AI / ML</b></td>
+<td>TensorFlow · Keras · Scikit-learn · LSTM</td>
+</tr>
+<tr>
+<td><b>LLM / GenAI</b></td>
+<td>LangChain · OpenRouter · LLM Applications</td>
+</tr>
+<tr>
+<td><b>Data</b></td>
+<td>Pandas · NumPy · Plotly · Time-Series</td>
+</tr>
+<tr>
+<td><b>Apps</b></td>
+<td>Streamlit · Flask · Jupyter</td>
+</tr>
+<tr>
+<td><b>Systems</b></td>
+<td>Arduino · Git · Linux</td>
+</tr>
+</table>
 
-→ [Explore the project](https://github.com/JEFFIN-alt/smart-attendance_system)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,java,mysql,tensorflow,pytorch,opencv,git,linux,arduino,flask" alt="Technology stack" />
+</p>
 
 ---
 
-## CURRENT WORKBENCH
+## ACTIVE WORKBENCH
 
 ```text
-[ ACTIVE ]  OpenLLM Gateway
-           └─ multi-model AI interfaces · LLM application patterns
+┌─ BUILDING ────────────────────────────────────────────────────────┐
+│  OpenLLM Gateway                                                   │
+│  LLM application patterns · multi-model interfaces                │
+│                                                                    │
+│  Multi-Sensor Motor Intelligence                                   │
+│  anomaly detection · time-series intelligence · predictive maint. │
+│                                                                    │
+│  Reservoir Intelligence                                            │
+│  forecasting · simulation · intelligent control                    │
+└────────────────────────────────────────────────────────────────────┘
 
-[ ACTIVE ]  Intelligent Sensor Anomaly Detection
-           └─ time-series intelligence · predictive maintenance
-
-[ ACTIVE ]  Multi-Reservoir Intelligence
-           └─ forecasting · simulation · intelligent control
-
-[ EXPLORING ]
-           └─ RAG · AI Agents · multimodal systems · production AI
+┌─ EXPLORING ───────────────────────────────────────────────────────┐
+│  RAG · AI Agents · multimodal AI · intelligent automation          │
+│  turning model capability into reliable end-to-end systems         │
+└────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## ENGINEERING STACK
-
-| Layer | Technologies |
-|---|---|
-| **Languages** | `Python` · `C` · `Java` · `SQL` |
-| **AI / ML** | `TensorFlow` · `Keras` · `Scikit-learn` · `LSTM` |
-| **LLM / GenAI** | `LangChain` · `OpenRouter` · `LLM Applications` |
-| **Data** | `Pandas` · `NumPy` · `Time-Series` · `Plotly` |
-| **Applications** | `Streamlit` · `Flask` · `Jupyter` |
-| **Systems** | `Arduino` · `Git` · `Linux` |
-
----
-
-## THE DIRECTION
+## HOW I THINK ABOUT AI
 
 <div align="center">
 
-### PERCEIVE  →  REASON  →  DECIDE  →  ACT
+**PERCEIVE**  →  **REASON**  →  **DECIDE**  →  **ACT**
 
 </div>
 
-My long-term interest is not simply building better models. It is building **intelligent systems around models** — systems that can understand their environment, reason over information, make decisions under constraints, and turn those decisions into action.
+I’m interested in systems where machine learning is only one layer of the solution: perception feeds a model, models feed reasoning, reasoning shapes decisions, and decisions become useful actions.
 
-That means moving toward **LLMs + RAG + Agents + multimodal perception + automation + reliable system design**.
+That path naturally leads me toward **LLMs, RAG, agentic systems, multimodal perception, time-series intelligence, and automation**.
 
 ---
 
-## SIGNAL LOG
+## LAB NOTES
 
-```text
-AI/ML        ████████████████████  building
-LLM systems  ████████████████░░░░  exploring
-RAG          █████████████░░░░░░  exploring
-AI Agents    ████████████░░░░░░░░  exploring
-Time Series  █████████████████░░░  building
-CV / Vision  ███████████████░░░░░  building
-Automation   ██████████████░░░░░░  building
-```
+**Current identity:** AI & Data Science student building practical intelligent systems.  
+**Favorite territory:** where data science meets software, hardware, and decision-making.  
+**Approach:** experiment → measure → understand → improve → ship.
 
 <div align="center">
 
 ---
 
-**JEFFIN MATHEW**  
-*AI Systems Laboratory · Build → Measure → Learn → Iterate*
+`AI SYSTEMS LAB // JEFFIN MATHEW`  
+*Learning in public. Building with intent.*
 
 </div>
